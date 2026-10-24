@@ -28,3 +28,11 @@ Open `index.html` in a modern browser while connected to the internet. PyScript 
 ## Publish with GitHub Pages
 
 In the GitHub repository, open **Settings → Pages**, choose **Deploy from a branch**, select the `main` branch and `/ (root)` folder, then save. GitHub Pages will publish `index.html` after deployment completes.
+
+## Members Collaborators
+
+1: Jhann
+2: Jay-v
+3: Ashi
+4: Lupibs
+5: Mantuhac
